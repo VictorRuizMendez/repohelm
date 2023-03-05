@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  Vchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-05T17:48:08.343062656Z"
+    description: A Helm chart for Kubernetes
+    digest: a5fd7bd37c3b964bd4421bc3167c18f6d45ef9fa327e20954bf92502693005db
+    name: Vchart
+    type: application
+    urls:
+    - Vchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-05T17:48:08.34220019Z"
